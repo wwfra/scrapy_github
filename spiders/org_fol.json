@@ -1,0 +1,44 @@
+[
+  {
+    "org_1_name": "OpenAI",
+    "org_2_page": "https://github.com/openai",
+    "org_3_repo": "0",
+    "org_4_follower": "58.7k"
+  },
+  {
+    "org_1_name": "Epic Games",
+    "org_2_page": "https://github.com/EpicGames",
+    "org_3_repo": "0",
+    "org_4_follower": "18k"
+  },
+  {
+    "org_1_name": "Hugging Face",
+    "org_2_page": "https://github.com/huggingface",
+    "org_3_repo": "143",
+    "org_4_follower": "17k"
+  },
+  {
+    "org_1_name": "The Algorithms",
+    "org_2_page": "https://github.com/TheAlgorithms",
+    "org_3_repo": "0",
+    "org_4_follower": "22.9k"
+  },
+  {
+    "org_1_name": "GitHub",
+    "org_2_page": "https://github.com/github",
+    "org_3_repo": "0",
+    "org_4_follower": "24.8k"
+  },
+  {
+    "org_1_name": "Google",
+    "org_2_page": "https://github.com/google",
+    "org_3_repo": "0",
+    "org_4_follower": "24.8k"
+  },
+  {
+    "org_1_name": "Microsoft",
+    "org_2_page": "https://github.com/microsoft",
+    "org_3_repo": "0",
+    "org_4_follower": "41.1k"
+  }
+]

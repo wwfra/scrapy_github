@@ -1,0 +1,602 @@
+[
+  {
+    "repo_1_name": "freeCodeCamp/freeCodeCamp",
+    "repo_2_star": "369k",
+    "repo_3_watch": "8.4k",
+    "repo_4_fork": "32.6k"
+  },
+  {
+    "repo_1_name": "vuejs/vue",
+    "repo_2_star": "204k",
+    "repo_3_watch": "6k",
+    "repo_4_fork": "33.9k"
+  },
+  {
+    "repo_1_name": "EbookFoundation/free-programming-books",
+    "repo_2_star": "284k",
+    "repo_3_watch": "9.7k",
+    "repo_4_fork": "55.7k"
+  },
+  {
+    "repo_1_name": "tensorflow/tensorflow",
+    "repo_2_star": "176k",
+    "repo_3_watch": "7.7k",
+    "repo_4_fork": "88.5k"
+  },
+  {
+    "repo_1_name": "torvalds/linux",
+    "repo_2_star": "153k",
+    "repo_3_watch": "8.2k",
+    "repo_4_fork": "48.5k"
+  },
+  {
+    "repo_1_name": "996icu/996.ICU",
+    "repo_2_star": "267k",
+    "repo_3_watch": "4.2k",
+    "repo_4_fork": "21.6k"
+  },
+  {
+    "repo_1_name": "kamranahmedse/developer-roadmap",
+    "repo_2_star": "242k",
+    "repo_3_watch": "6.8k",
+    "repo_4_fork": "34.1k"
+  },
+  {
+    "repo_1_name": "donnemartin/system-design-primer",
+    "repo_2_star": "222k",
+    "repo_3_watch": "6.5k",
+    "repo_4_fork": "39.4k"
+  },
+  {
+    "repo_1_name": "papers-we-love/papers-we-love",
+    "repo_2_star": "73.5k",
+    "repo_3_watch": "3.1k",
+    "repo_4_fork": "5.3k"
+  },
+  {
+    "repo_1_name": "facebook/react",
+    "repo_2_star": "209k",
+    "repo_3_watch": "6.6k",
+    "repo_4_fork": "43.7k"
+  },
+  {
+    "repo_1_name": "rust-lang/rust",
+    "repo_2_star": "82.7k",
+    "repo_3_watch": "1.5k",
+    "repo_4_fork": "11k"
+  },
+  {
+    "repo_1_name": "mtdvio/every-programmer-should-know",
+    "repo_2_star": "71.7k",
+    "repo_3_watch": "2k",
+    "repo_4_fork": "6.8k"
+  },
+  {
+    "repo_1_name": "FortAwesome/Font-Awesome",
+    "repo_2_star": "71.6k",
+    "repo_3_watch": "1.4k",
+    "repo_4_fork": "12.4k"
+  },
+  {
+    "repo_1_name": "django/django",
+    "repo_2_star": "71.5k",
+    "repo_3_watch": "2.3k",
+    "repo_4_fork": "29.4k"
+  },
+  {
+    "repo_1_name": "animate-css/animate.css",
+    "repo_2_star": "78k",
+    "repo_3_watch": "2.3k",
+    "repo_4_fork": "16.5k"
+  },
+  {
+    "repo_1_name": "microsoft/Web-Dev-For-Beginners",
+    "repo_2_star": "70.8k",
+    "repo_3_watch": "2.6k",
+    "repo_4_fork": "11.1k"
+  },
+  {
+    "repo_1_name": "nvbn/thefuck",
+    "repo_2_star": "77.8k",
+    "repo_3_watch": "833",
+    "repo_4_fork": "3.4k"
+  },
+  {
+    "repo_1_name": "yangshun/tech-interview-handbook",
+    "repo_2_star": "92.2k",
+    "repo_3_watch": "1.9k",
+    "repo_4_fork": "12k"
+  },
+  {
+    "repo_1_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "repo_2_star": "84.6k",
+    "repo_3_watch": "757",
+    "repo_4_fork": "16.4k"
+  },
+  {
+    "repo_1_name": "tonsky/FiraCode",
+    "repo_2_star": "70.6k",
+    "repo_3_watch": "706",
+    "repo_4_fork": "3k"
+  },
+  {
+    "repo_1_name": "ripienaar/free-for-dev",
+    "repo_2_star": "70.6k",
+    "repo_3_watch": "1.6k",
+    "repo_4_fork": "7.7k"
+  },
+  {
+    "repo_1_name": "doocs/advanced-java",
+    "repo_2_star": "70.5k",
+    "repo_3_watch": "2.6k",
+    "repo_4_fork": "18.4k"
+  },
+  {
+    "repo_1_name": "gothinkster/realworld",
+    "repo_2_star": "74.9k",
+    "repo_3_watch": "1.6k",
+    "repo_4_fork": "6.9k"
+  },
+  {
+    "repo_1_name": "tensorflow/models",
+    "repo_2_star": "75.9k",
+    "repo_3_watch": "2.8k",
+    "repo_4_fork": "46.3k"
+  },
+  {
+    "repo_1_name": "puppeteer/puppeteer",
+    "repo_2_star": "83.7k",
+    "repo_3_watch": "1.2k",
+    "repo_4_fork": "9k"
+  },
+  {
+    "repo_1_name": "huggingface/transformers",
+    "repo_2_star": "104k",
+    "repo_3_watch": "1k",
+    "repo_4_fork": "21k"
+  },
+  {
+    "repo_1_name": "Genymobile/scrcpy",
+    "repo_2_star": "86.2k",
+    "repo_3_watch": "1.1k",
+    "repo_4_fork": "8.8k"
+  },
+  {
+    "repo_1_name": "microsoft/PowerToys",
+    "repo_2_star": "92.3k",
+    "repo_3_watch": "1.1k",
+    "repo_4_fork": "5.4k"
+  },
+  {
+    "repo_1_name": "d3/d3",
+    "repo_2_star": "106k",
+    "repo_3_watch": "3.7k",
+    "repo_4_fork": "23.3k"
+  },
+  {
+    "repo_1_name": "Snailclimb/JavaGuide",
+    "repo_2_star": "135k",
+    "repo_3_watch": "4.5k",
+    "repo_4_fork": "44.2k"
+  },
+  {
+    "repo_1_name": "storybookjs/storybook",
+    "repo_2_star": "79.1k",
+    "repo_3_watch": "951",
+    "repo_4_fork": "8.5k"
+  },
+  {
+    "repo_1_name": "ant-design/ant-design",
+    "repo_2_star": "86.3k",
+    "repo_3_watch": "208",
+    "repo_4_fork": "40.3k"
+  },
+  {
+    "repo_1_name": "mrdoob/three.js",
+    "repo_2_star": "92.7k",
+    "repo_3_watch": "2.6k",
+    "repo_4_fork": "34.8k"
+  },
+  {
+    "repo_1_name": "flutter/flutter",
+    "repo_2_star": "154k",
+    "repo_3_watch": "3.6k",
+    "repo_4_fork": "25.5k"
+  },
+  {
+    "repo_1_name": "practical-tutorials/project-based-learning",
+    "repo_2_star": "107k",
+    "repo_3_watch": "2.3k",
+    "repo_4_fork": "14.9k"
+  },
+  {
+    "repo_1_name": "airbnb/javascript",
+    "repo_2_star": "135k",
+    "repo_3_watch": "3.8k",
+    "repo_4_fork": "25.7k"
+  },
+  {
+    "repo_1_name": "f/awesome-chatgpt-prompts",
+    "repo_2_star": "80.7k",
+    "repo_3_watch": "1.1k",
+    "repo_4_fork": "10.5k"
+  },
+  {
+    "repo_1_name": "mui/material-ui",
+    "repo_2_star": "87.3k",
+    "repo_3_watch": "1.4k",
+    "repo_4_fork": "29.9k"
+  },
+  {
+    "repo_1_name": "nodejs/node",
+    "repo_2_star": "96k",
+    "repo_3_watch": "2.9k",
+    "repo_4_fork": "26.1k"
+  },
+  {
+    "repo_1_name": "ohmyzsh/ohmyzsh",
+    "repo_2_star": "160k",
+    "repo_3_watch": "2.7k",
+    "repo_4_fork": "25.3k"
+  },
+  {
+    "repo_1_name": "electron/electron",
+    "repo_2_star": "108k",
+    "repo_3_watch": "2.9k",
+    "repo_4_fork": "14.7k"
+  },
+  {
+    "repo_1_name": "awesome-selfhosted/awesome-selfhosted",
+    "repo_2_star": "136k",
+    "repo_3_watch": "2k",
+    "repo_4_fork": "7.8k"
+  },
+  {
+    "repo_1_name": "codecrafters-io/build-your-own-x",
+    "repo_2_star": "205k",
+    "repo_3_watch": "4.5k",
+    "repo_4_fork": "19.9k"
+  },
+  {
+    "repo_1_name": "MisterBooo/LeetCodeAnimation",
+    "repo_2_star": "73.3k",
+    "repo_3_watch": "2.6k",
+    "repo_4_fork": "13.9k"
+  },
+  {
+    "repo_1_name": "iluwatar/java-design-patterns",
+    "repo_2_star": "82.5k",
+    "repo_3_watch": "3.8k",
+    "repo_4_fork": "25.2k"
+  },
+  {
+    "repo_1_name": "angular/angular",
+    "repo_2_star": "88.7k",
+    "repo_3_watch": "3k",
+    "repo_4_fork": "23.7k"
+  },
+  {
+    "repo_1_name": "kubernetes/kubernetes",
+    "repo_2_star": "99.3k",
+    "repo_3_watch": "3.2k",
+    "repo_4_fork": "36.4k"
+  },
+  {
+    "repo_1_name": "TheAlgorithms/Python",
+    "repo_2_star": "160k",
+    "repo_3_watch": "5.9k",
+    "repo_4_fork": "40.4k"
+  },
+  {
+    "repo_1_name": "vercel/next.js",
+    "repo_2_star": "108k",
+    "repo_3_watch": "1.4k",
+    "repo_4_fork": "24.1k"
+  },
+  {
+    "repo_1_name": "jackfrued/Python-100-Days",
+    "repo_2_star": "137k",
+    "repo_3_watch": "6.2k",
+    "repo_4_fork": "49.3k"
+  },
+  {
+    "repo_1_name": "microsoft/terminal",
+    "repo_2_star": "89.2k",
+    "repo_3_watch": "1.3k",
+    "repo_4_fork": "7.8k"
+  },
+  {
+    "repo_1_name": "facebook/create-react-app",
+    "repo_2_star": "100k",
+    "repo_3_watch": "2k",
+    "repo_4_fork": "26.4k"
+  },
+  {
+    "repo_1_name": "twbs/bootstrap",
+    "repo_2_star": "164k",
+    "repo_3_watch": "6.8k",
+    "repo_4_fork": "78.6k"
+  },
+  {
+    "repo_1_name": "facebook/react-native",
+    "repo_2_star": "110k",
+    "repo_3_watch": "3.7k",
+    "repo_4_fork": "23.4k"
+  },
+  {
+    "repo_1_name": "jlevy/the-art-of-command-line",
+    "repo_2_star": "137k",
+    "repo_3_watch": "2.8k",
+    "repo_4_fork": "13.6k"
+  },
+  {
+    "repo_1_name": "laravel/laravel",
+    "repo_2_star": "73.8k",
+    "repo_3_watch": "4.5k",
+    "repo_4_fork": "23.8k"
+  },
+  {
+    "repo_1_name": "PanJiaChen/vue-element-admin",
+    "repo_2_star": "82.8k",
+    "repo_3_watch": "2.2k",
+    "repo_4_fork": "29.9k"
+  },
+  {
+    "repo_1_name": "denoland/deno",
+    "repo_2_star": "89.8k",
+    "repo_3_watch": "1.5k",
+    "repo_4_fork": "4.9k"
+  },
+  {
+    "repo_1_name": "trimstray/the-book-of-secret-knowledge",
+    "repo_2_star": "100k",
+    "repo_3_watch": "2.1k",
+    "repo_4_fork": "7.4k"
+  },
+  {
+    "repo_1_name": "CyC2018/CS-Notes",
+    "repo_2_star": "165k",
+    "repo_3_watch": "5.4k",
+    "repo_4_fork": "50.3k"
+  },
+  {
+    "repo_1_name": "golang/go",
+    "repo_2_star": "112k",
+    "repo_3_watch": "3.5k",
+    "repo_4_fork": "16.7k"
+  },
+  {
+    "repo_1_name": "Significant-Gravitas/Auto-GPT",
+    "repo_2_star": "140k",
+    "repo_3_watch": "1.5k",
+    "repo_4_fork": "29.7k"
+  },
+  {
+    "repo_1_name": "ryanmcdermott/clean-code-javascript",
+    "repo_2_star": "83k",
+    "repo_3_watch": "1.9k",
+    "repo_4_fork": "11.3k"
+  },
+  {
+    "repo_1_name": "goldbergyoni/nodebestpractices",
+    "repo_2_star": "89.8k",
+    "repo_3_watch": "1.9k",
+    "repo_4_fork": "9.3k"
+  },
+  {
+    "repo_1_name": "axios/axios",
+    "repo_2_star": "101k",
+    "repo_3_watch": "1.2k",
+    "repo_4_fork": "10.4k"
+  },
+  {
+    "repo_1_name": "30-seconds/30-seconds-of-code",
+    "repo_2_star": "113k",
+    "repo_3_watch": "2.6k",
+    "repo_4_fork": "11.6k"
+  },
+  {
+    "repo_1_name": "getify/You-Dont-Know-JS",
+    "repo_2_star": "169k",
+    "repo_3_watch": "6k",
+    "repo_4_fork": "32.7k"
+  },
+  {
+    "repo_1_name": "ossu/computer-science",
+    "repo_2_star": "141k",
+    "repo_3_watch": "5.5k",
+    "repo_4_fork": "18.1k"
+  },
+  {
+    "repo_1_name": "public-apis/public-apis",
+    "repo_2_star": "245k",
+    "repo_3_watch": "3.9k",
+    "repo_4_fork": "27.9k"
+  },
+  {
+    "repo_1_name": "microsoft/TypeScript",
+    "repo_2_star": "92.1k",
+    "repo_3_watch": "2.2k",
+    "repo_4_fork": "11.9k"
+  },
+  {
+    "repo_1_name": "justjavac/free-programming-books-zh_CN",
+    "repo_2_star": "103k",
+    "repo_3_watch": "5.9k",
+    "repo_4_fork": "27.6k"
+  },
+  {
+    "repo_1_name": "trekhleb/javascript-algorithms",
+    "repo_2_star": "171k",
+    "repo_3_watch": "4.4k",
+    "repo_4_fork": "28.1k"
+  },
+  {
+    "repo_1_name": "labuladong/fucking-algorithm",
+    "repo_2_star": "117k",
+    "repo_3_watch": "2.4k",
+    "repo_4_fork": "22.4k"
+  },
+  {
+    "repo_1_name": "microsoft/vscode",
+    "repo_2_star": "147k",
+    "repo_3_watch": "3.3k",
+    "repo_4_fork": "26k"
+  },
+  {
+    "repo_1_name": "sindresorhus/awesome",
+    "repo_2_star": "258k",
+    "repo_3_watch": "7.5k",
+    "repo_4_fork": "25.9k"
+  },
+  {
+    "repo_1_name": "avelino/awesome-go",
+    "repo_2_star": "103k",
+    "repo_3_watch": "2.8k",
+    "repo_4_fork": "11k"
+  },
+  {
+    "repo_1_name": "vinta/awesome-python",
+    "repo_2_star": "171k",
+    "repo_3_watch": "5.8k",
+    "repo_4_fork": "23.3k"
+  },
+  {
+    "repo_1_name": "ytdl-org/youtube-dl",
+    "repo_2_star": "121k",
+    "repo_3_watch": "2.2k",
+    "repo_4_fork": "9.1k"
+  },
+  {
+    "repo_1_name": "github/gitignore",
+    "repo_2_star": "149k",
+    "repo_3_watch": "3.4k",
+    "repo_4_fork": "84.2k"
+  },
+  {
+    "repo_1_name": "jwasham/coding-interview-university",
+    "repo_2_star": "260k",
+    "repo_3_watch": "8.6k",
+    "repo_4_fork": "68.1k"
+  },
+  {
+    "repo_1_name": "521xueweihan/HelloGitHub",
+    "repo_2_star": "70.2k",
+    "repo_3_watch": "2.8k",
+    "repo_4_fork": "9k"
+  },
+  {
+    "repo_1_name": "bitcoin/bitcoin",
+    "repo_2_star": "70k",
+    "repo_3_watch": "3.9k",
+    "repo_4_fork": "34.5k"
+  },
+  {
+    "repo_1_name": "opencv/opencv",
+    "repo_2_star": "69.5k",
+    "repo_3_watch": "2.6k",
+    "repo_4_fork": "55.4k"
+  },
+  {
+    "repo_1_name": "nvm-sh/nvm",
+    "repo_2_star": "67.9k",
+    "repo_3_watch": "967",
+    "repo_4_fork": "7.3k"
+  },
+  {
+    "repo_1_name": "gin-gonic/gin",
+    "repo_2_star": "69.5k",
+    "repo_3_watch": "1.4k",
+    "repo_4_fork": "7.5k"
+  },
+  {
+    "repo_1_name": "gohugoio/hugo",
+    "repo_2_star": "67.6k",
+    "repo_3_watch": "1.1k",
+    "repo_4_fork": "7.2k"
+  },
+  {
+    "repo_1_name": "tailwindlabs/tailwindcss",
+    "repo_2_star": "69.5k",
+    "repo_3_watch": "591",
+    "repo_4_fork": "3.6k"
+  },
+  {
+    "repo_1_name": "typicode/json-server",
+    "repo_2_star": "67.3k",
+    "repo_3_watch": "1k",
+    "repo_4_fork": "6.6k"
+  },
+  {
+    "repo_1_name": "vuejs/awesome-vue",
+    "repo_2_star": "68.8k",
+    "repo_3_watch": "2.1k",
+    "repo_4_fork": "9.4k"
+  },
+  {
+    "repo_1_name": "moby/moby",
+    "repo_2_star": "66.1k",
+    "repo_3_watch": "3k",
+    "repo_4_fork": "18.7k"
+  },
+  {
+    "repo_1_name": "neovim/neovim",
+    "repo_2_star": "66.8k",
+    "repo_3_watch": "983",
+    "repo_4_fork": "4.7k"
+  },
+  {
+    "repo_1_name": "pytorch/pytorch",
+    "repo_2_star": "67.9k",
+    "repo_3_watch": "1.7k",
+    "repo_4_fork": "18.6k"
+  },
+  {
+    "repo_1_name": "thedaviddias/Front-End-Checklist",
+    "repo_2_star": "65.4k",
+    "repo_3_watch": "1.5k",
+    "repo_4_fork": "6.3k"
+  },
+  {
+    "repo_1_name": "Hack-with-Github/Awesome-Hacking",
+    "repo_2_star": "66.1k",
+    "repo_3_watch": "3.7k",
+    "repo_4_fork": "8.6k"
+  },
+  {
+    "repo_1_name": "spring-projects/spring-boot",
+    "repo_2_star": "67.9k",
+    "repo_3_watch": "3.4k",
+    "repo_4_fork": "38.9k"
+  },
+  {
+    "repo_1_name": "fatedier/frp",
+    "repo_2_star": "68.5k",
+    "repo_3_watch": "1.6k",
+    "repo_4_fork": "11.6k"
+  },
+  {
+    "repo_1_name": "iptv-org/iptv",
+    "repo_2_star": "65.4k",
+    "repo_3_watch": "1.7k",
+    "repo_4_fork": "466"
+  },
+  {
+    "repo_1_name": "macrozheng/mall",
+    "repo_2_star": "67k",
+    "repo_3_watch": "2.2k",
+    "repo_4_fork": "27k"
+  },
+  {
+    "repo_1_name": "florinpop17/app-ideas",
+    "repo_2_star": "65.3k",
+    "repo_3_watch": "1.8k",
+    "repo_4_fork": "8.4k"
+  },
+  {
+    "repo_1_name": "sveltejs/svelte",
+    "repo_2_star": "68.5k",
+    "repo_3_watch": "870",
+    "repo_4_fork": "3.4k"
+  }
+]

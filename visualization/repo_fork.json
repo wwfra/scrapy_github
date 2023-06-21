@@ -1,0 +1,602 @@
+[
+  {
+    "repo_1_name": "jtleek/datasharing",
+    "repo_2_star": 6300,
+    "repo_3_watch": 561,
+    "repo_4_fork": 243000
+  },
+  {
+    "repo_1_name": "rdpeng/ProgrammingAssignment2",
+    "repo_2_star": 790,
+    "repo_3_watch": 138,
+    "repo_4_fork": 142000
+  },
+  {
+    "repo_1_name": "octocat/Spoon-Knife",
+    "repo_2_star": 11700,
+    "repo_3_watch": 647,
+    "repo_4_fork": 136000
+  },
+  {
+    "repo_1_name": "SmartThingsCommunity/SmartThingsPublic",
+    "repo_2_star": 2500,
+    "repo_3_watch": 358,
+    "repo_4_fork": 91100
+  },
+  {
+    "repo_1_name": "tensorflow/tensorflow",
+    "repo_2_star": 176000,
+    "repo_3_watch": 7700,
+    "repo_4_fork": 88500
+  },
+  {
+    "repo_1_name": "github/gitignore",
+    "repo_2_star": 149000,
+    "repo_3_watch": 3400,
+    "repo_4_fork": 84200
+  },
+  {
+    "repo_1_name": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "repo_2_star": 24000,
+    "repo_3_watch": 2700,
+    "repo_4_fork": 79500
+  },
+  {
+    "repo_1_name": "twbs/bootstrap",
+    "repo_2_star": 164000,
+    "repo_3_watch": 6800,
+    "repo_4_fork": 78600
+  },
+  {
+    "repo_1_name": "nightscout/cgm-remote-monitor",
+    "repo_2_star": 2100,
+    "repo_3_watch": 286,
+    "repo_4_fork": 69500
+  },
+  {
+    "repo_1_name": "jwasham/coding-interview-university",
+    "repo_2_star": 260000,
+    "repo_3_watch": 8600,
+    "repo_4_fork": 68100
+  },
+  {
+    "repo_1_name": "firstcontributions/first-contributions",
+    "repo_2_star": 34200,
+    "repo_3_watch": 491,
+    "repo_4_fork": 61100
+  },
+  {
+    "repo_1_name": "github/docs",
+    "repo_2_star": 13800,
+    "repo_3_watch": 0,
+    "repo_4_fork": 60300
+  },
+  {
+    "repo_1_name": "rdpeng/ExData_Plotting1",
+    "repo_2_star": 235,
+    "repo_3_watch": 26,
+    "repo_4_fork": 56500
+  },
+  {
+    "repo_1_name": "EbookFoundation/free-programming-books",
+    "repo_2_star": 284000,
+    "repo_3_watch": 9700,
+    "repo_4_fork": 55700
+  },
+  {
+    "repo_1_name": "opencv/opencv",
+    "repo_2_star": 69500,
+    "repo_3_watch": 2600,
+    "repo_4_fork": 55400
+  },
+  {
+    "repo_1_name": "eugenp/tutorials",
+    "repo_2_star": 34400,
+    "repo_3_watch": 1500,
+    "repo_4_fork": 53800
+  },
+  {
+    "repo_1_name": "CyC2018/CS-Notes",
+    "repo_2_star": 165000,
+    "repo_3_watch": 5400,
+    "repo_4_fork": 50300
+  },
+  {
+    "repo_1_name": "jackfrued/Python-100-Days",
+    "repo_2_star": 137000,
+    "repo_3_watch": 6200,
+    "repo_4_fork": 49300
+  },
+  {
+    "repo_1_name": "torvalds/linux",
+    "repo_2_star": 153000,
+    "repo_3_watch": 8200,
+    "repo_4_fork": 48500
+  },
+  {
+    "repo_1_name": "tensorflow/models",
+    "repo_2_star": 75900,
+    "repo_3_watch": 2800,
+    "repo_4_fork": 46300
+  },
+  {
+    "repo_1_name": "Snailclimb/JavaGuide",
+    "repo_2_star": 135000,
+    "repo_3_watch": 0,
+    "repo_4_fork": 44200
+  },
+  {
+    "repo_1_name": "TheOdinProject/css-exercises",
+    "repo_2_star": 1100,
+    "repo_3_watch": 32,
+    "repo_4_fork": 44200
+  },
+  {
+    "repo_1_name": "facebook/react",
+    "repo_2_star": 209000,
+    "repo_3_watch": 6600,
+    "repo_4_fork": 43700
+  },
+  {
+    "repo_1_name": "RedHatTraining/DO180-apps",
+    "repo_2_star": 263,
+    "repo_3_watch": 42,
+    "repo_4_fork": 42500
+  },
+  {
+    "repo_1_name": "TheAlgorithms/Python",
+    "repo_2_star": 160000,
+    "repo_3_watch": 5900,
+    "repo_4_fork": 40400
+  },
+  {
+    "repo_1_name": "ant-design/ant-design",
+    "repo_2_star": 86300,
+    "repo_3_watch": 208,
+    "repo_4_fork": 40300
+  },
+  {
+    "repo_1_name": "donnemartin/system-design-primer",
+    "repo_2_star": 222000,
+    "repo_3_watch": 6500,
+    "repo_4_fork": 39400
+  },
+  {
+    "repo_1_name": "jlord/patchwork",
+    "repo_2_star": 1100,
+    "repo_3_watch": 47,
+    "repo_4_fork": 39400
+  },
+  {
+    "repo_1_name": "spring-projects/spring-boot",
+    "repo_2_star": 67900,
+    "repo_3_watch": 3400,
+    "repo_4_fork": 38900
+  },
+  {
+    "repo_1_name": "rdpeng/RepData_PeerAssessment1",
+    "repo_2_star": 97,
+    "repo_3_watch": 22,
+    "repo_4_fork": 37000
+  },
+  {
+    "repo_1_name": "google/it-cert-automation-practice",
+    "repo_2_star": 689,
+    "repo_3_watch": 38,
+    "repo_4_fork": 36500
+  },
+  {
+    "repo_1_name": "kubernetes/kubernetes",
+    "repo_2_star": 99300,
+    "repo_3_watch": 3200,
+    "repo_4_fork": 36400
+  },
+  {
+    "repo_1_name": "spring-projects/spring-framework",
+    "repo_2_star": 52200,
+    "repo_3_watch": 3400,
+    "repo_4_fork": 36300
+  },
+  {
+    "repo_1_name": "barryclark/jekyll-now",
+    "repo_2_star": 8000,
+    "repo_3_watch": 159,
+    "repo_4_fork": 35100
+  },
+  {
+    "repo_1_name": "mrdoob/three.js",
+    "repo_2_star": 92700,
+    "repo_3_watch": 2600,
+    "repo_4_fork": 34800
+  },
+  {
+    "repo_1_name": "bitcoin/bitcoin",
+    "repo_2_star": 70000,
+    "repo_3_watch": 3900,
+    "repo_4_fork": 34500
+  },
+  {
+    "repo_1_name": "kamranahmedse/developer-roadmap",
+    "repo_2_star": 242000,
+    "repo_3_watch": 6800,
+    "repo_4_fork": 34100
+  },
+  {
+    "repo_1_name": "vuejs/vue",
+    "repo_2_star": 204000,
+    "repo_3_watch": 6000,
+    "repo_4_fork": 33900
+  },
+  {
+    "repo_1_name": "wesbos/JavaScript30",
+    "repo_2_star": 24600,
+    "repo_3_watch": 686,
+    "repo_4_fork": 33200
+  },
+  {
+    "repo_1_name": "getify/You-Dont-Know-JS",
+    "repo_2_star": 169000,
+    "repo_3_watch": 6000,
+    "repo_4_fork": 32700
+  },
+  {
+    "repo_1_name": "freeCodeCamp/freeCodeCamp",
+    "repo_2_star": 369000,
+    "repo_3_watch": 8400,
+    "repo_4_fork": 32600
+  },
+  {
+    "repo_1_name": "qmk/qmk_firmware",
+    "repo_2_star": 15300,
+    "repo_3_watch": 230,
+    "repo_4_fork": 32600
+  },
+  {
+    "repo_1_name": "DataScienceSpecialization/courses",
+    "repo_2_star": 4000,
+    "repo_3_watch": 890,
+    "repo_4_fork": 31500
+  },
+  {
+    "repo_1_name": "Yidadaa/ChatGPT-Next-Web",
+    "repo_2_star": 32700,
+    "repo_3_watch": 210,
+    "repo_4_fork": 30800
+  },
+  {
+    "repo_1_name": "mui/material-ui",
+    "repo_2_star": 87300,
+    "repo_3_watch": 1400,
+    "repo_4_fork": 29900
+  },
+  {
+    "repo_1_name": "PanJiaChen/vue-element-admin",
+    "repo_2_star": 82800,
+    "repo_3_watch": 2200,
+    "repo_4_fork": 29900
+  },
+  {
+    "repo_1_name": "Significant-Gravitas/Auto-GPT",
+    "repo_2_star": 140000,
+    "repo_3_watch": 1500,
+    "repo_4_fork": 29700
+  },
+  {
+    "repo_1_name": "django/django",
+    "repo_2_star": 71500,
+    "repo_3_watch": 2300,
+    "repo_4_fork": 29400
+  },
+  {
+    "repo_1_name": "DefinitelyTyped/DefinitelyTyped",
+    "repo_2_star": 44300,
+    "repo_3_watch": 668,
+    "repo_4_fork": 29200
+  },
+  {
+    "repo_1_name": "academicpages/academicpages.github.io",
+    "repo_2_star": 8000,
+    "repo_3_watch": 83,
+    "repo_4_fork": 28800
+  },
+  {
+    "repo_1_name": "trekhleb/javascript-algorithms",
+    "repo_2_star": 171000,
+    "repo_3_watch": 4400,
+    "repo_4_fork": 28100
+  },
+  {
+    "repo_1_name": "angular/angular.js",
+    "repo_2_star": 59100,
+    "repo_3_watch": 3800,
+    "repo_4_fork": 28100
+  },
+  {
+    "repo_1_name": "public-apis/public-apis",
+    "repo_2_star": 245000,
+    "repo_3_watch": 3900,
+    "repo_4_fork": 27900
+  },
+  {
+    "repo_1_name": "justjavac/free-programming-books-zh_CN",
+    "repo_2_star": 103000,
+    "repo_3_watch": 5900,
+    "repo_4_fork": 27600
+  },
+  {
+    "repo_1_name": "python/cpython",
+    "repo_2_star": 54100,
+    "repo_3_watch": 1500,
+    "repo_4_fork": 27100
+  },
+  {
+    "repo_1_name": "apache/spark",
+    "repo_2_star": 36000,
+    "repo_3_watch": 2000,
+    "repo_4_fork": 27100
+  },
+  {
+    "repo_1_name": "macrozheng/mall",
+    "repo_2_star": 67000,
+    "repo_3_watch": 2200,
+    "repo_4_fork": 27000
+  },
+  {
+    "repo_1_name": "facebook/create-react-app",
+    "repo_2_star": 100000,
+    "repo_3_watch": 0,
+    "repo_4_fork": 26400
+  },
+  {
+    "repo_1_name": "nodejs/node",
+    "repo_2_star": 96000,
+    "repo_3_watch": 2900,
+    "repo_4_fork": 26100
+  },
+  {
+    "repo_1_name": "mdn/learning-area",
+    "repo_2_star": 6100,
+    "repo_3_watch": 340,
+    "repo_4_fork": 26000
+  },
+  {
+    "repo_1_name": "microsoft/vscode",
+    "repo_2_star": 147000,
+    "repo_3_watch": 3300,
+    "repo_4_fork": 26000
+  },
+  {
+    "repo_1_name": "apache/dubbo",
+    "repo_2_star": 39000,
+    "repo_3_watch": 3100,
+    "repo_4_fork": 26000
+  },
+  {
+    "repo_1_name": "hiifeng/V2ray-for-Doprax",
+    "repo_2_star": 7800,
+    "repo_3_watch": 51,
+    "repo_4_fork": 25900
+  },
+  {
+    "repo_1_name": "sindresorhus/awesome",
+    "repo_2_star": 258000,
+    "repo_3_watch": 7500,
+    "repo_4_fork": 25900
+  },
+  {
+    "repo_1_name": "airbnb/javascript",
+    "repo_2_star": 135000,
+    "repo_3_watch": 3800,
+    "repo_4_fork": 25700
+  },
+  {
+    "repo_1_name": "atralice/Curso.Prep.Henry",
+    "repo_2_star": 965,
+    "repo_3_watch": 128,
+    "repo_4_fork": 25700
+  },
+  {
+    "repo_1_name": "dotnet/AspNetCore.Docs",
+    "repo_2_star": 11700,
+    "repo_3_watch": 710,
+    "repo_4_fork": 25600
+  },
+  {
+    "repo_1_name": "flutter/flutter",
+    "repo_2_star": 154000,
+    "repo_3_watch": 3600,
+    "repo_4_fork": 25500
+  },
+  {
+    "repo_1_name": "ohmyzsh/ohmyzsh",
+    "repo_2_star": 160000,
+    "repo_3_watch": 2700,
+    "repo_4_fork": 25300
+  },
+  {
+    "repo_1_name": "iluwatar/java-design-patterns",
+    "repo_2_star": 82500,
+    "repo_3_watch": 3800,
+    "repo_4_fork": 25200
+  },
+  {
+    "repo_1_name": "git/git",
+    "repo_2_star": 46600,
+    "repo_3_watch": 2400,
+    "repo_4_fork": 25200
+  },
+  {
+    "repo_1_name": "scikit-learn/scikit-learn",
+    "repo_2_star": 54600,
+    "repo_3_watch": 2200,
+    "repo_4_fork": 24300
+  },
+  {
+    "repo_1_name": "vercel/next.js",
+    "repo_2_star": 108000,
+    "repo_3_watch": 0,
+    "repo_4_fork": 24100
+  },
+  {
+    "repo_1_name": "jenkins-docs/simple-java-maven-app",
+    "repo_2_star": 365,
+    "repo_3_watch": 15,
+    "repo_4_fork": 24000
+  },
+  {
+    "repo_1_name": "laravel/laravel",
+    "repo_2_star": 73800,
+    "repo_3_watch": 4500,
+    "repo_4_fork": 23800
+  },
+  {
+    "repo_1_name": "angular/angular",
+    "repo_2_star": 88700,
+    "repo_3_watch": 0,
+    "repo_4_fork": 23700
+  },
+  {
+    "repo_1_name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+    "repo_2_star": 128,
+    "repo_3_watch": 0,
+    "repo_4_fork": 23600
+  },
+  {
+    "repo_1_name": "home-assistant/core",
+    "repo_2_star": 61200,
+    "repo_3_watch": 1400,
+    "repo_4_fork": 23500
+  },
+  {
+    "repo_1_name": "ansible/ansible",
+    "repo_2_star": 57700,
+    "repo_3_watch": 1900,
+    "repo_4_fork": 23400
+  },
+  {
+    "repo_1_name": "facebook/react-native",
+    "repo_2_star": 110000,
+    "repo_3_watch": 3700,
+    "repo_4_fork": 23400
+  },
+  {
+    "repo_1_name": "vinta/awesome-python",
+    "repo_2_star": 171000,
+    "repo_3_watch": 5800,
+    "repo_4_fork": 23300
+  },
+  {
+    "repo_1_name": "elastic/elasticsearch",
+    "repo_2_star": 64200,
+    "repo_3_watch": 0,
+    "repo_4_fork": 23200
+  },
+  {
+    "repo_1_name": "FreeRDP/FreeRDP",
+    "repo_2_star": 8300,
+    "repo_3_watch": 0,
+    "repo_4_fork": 23000
+  },
+  {
+    "repo_1_name": "danielmiessler/SecLists",
+    "repo_2_star": 47200,
+    "repo_3_watch": 1900,
+    "repo_4_fork": 23000
+  },
+  {
+    "repo_1_name": "mmistakes/minimal-mistakes",
+    "repo_2_star": 11100,
+    "repo_3_watch": 0,
+    "repo_4_fork": 22900
+  },
+  {
+    "repo_1_name": "redis/redis",
+    "repo_2_star": 60300,
+    "repo_3_watch": 0,
+    "repo_4_fork": 22600
+  },
+  {
+    "repo_1_name": "labuladong/fucking-algorithm",
+    "repo_2_star": 117000,
+    "repo_3_watch": 2400,
+    "repo_4_fork": 22400
+  },
+  {
+    "repo_1_name": "soyHenry/Prep-Course",
+    "repo_2_star": 538,
+    "repo_3_watch": 68,
+    "repo_4_fork": 22200
+  },
+  {
+    "repo_1_name": "udacity/frontend-nanodegree-resume",
+    "repo_2_star": 1200,
+    "repo_3_watch": 149,
+    "repo_4_fork": 22200
+  },
+  {
+    "repo_1_name": "slatedocs/slate",
+    "repo_2_star": 35200,
+    "repo_3_watch": 509,
+    "repo_4_fork": 22100
+  },
+  {
+    "repo_1_name": "996icu/996.ICU",
+    "repo_2_star": 267000,
+    "repo_3_watch": 4200,
+    "repo_4_fork": 21600
+  },
+  {
+    "repo_1_name": "othneildrew/Best-README-Template",
+    "repo_2_star": 10700,
+    "repo_3_watch": 67,
+    "repo_4_fork": 21500
+  },
+  {
+    "repo_1_name": "pjreddie/darknet",
+    "repo_2_star": 24300,
+    "repo_3_watch": 905,
+    "repo_4_fork": 21400
+  },
+  {
+    "repo_1_name": "lewagon/dotfiles",
+    "repo_2_star": 18000,
+    "repo_3_watch": 40,
+    "repo_4_fork": 21300
+  },
+  {
+    "repo_1_name": "rails/rails",
+    "repo_2_star": 53000,
+    "repo_3_watch": 2400,
+    "repo_4_fork": 21200
+  },
+  {
+    "repo_1_name": "huggingface/transformers",
+    "repo_2_star": 104000,
+    "repo_3_watch": 1000,
+    "repo_4_fork": 21000
+  },
+  {
+    "repo_1_name": "jquery/jquery",
+    "repo_2_star": 57600,
+    "repo_3_watch": 3200,
+    "repo_4_fork": 20800
+  },
+  {
+    "repo_1_name": "TheOdinProject/javascript-exercises",
+    "repo_2_star": 901,
+    "repo_3_watch": 32,
+    "repo_4_fork": 20800
+  },
+  {
+    "repo_1_name": "LarryMad/recipes",
+    "repo_2_star": 77,
+    "repo_3_watch": 8,
+    "repo_4_fork": 20300
+  },
+  {
+    "repo_1_name": "d3/d3",
+    "repo_2_star": 0,
+    "repo_3_watch": 0,
+    "repo_4_fork": "0"
+  }
+]
