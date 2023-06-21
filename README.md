@@ -1,6 +1,6 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 # scrapy_github
-本程序可以针对GitHub上最热门的用户与仓库进行爬取和解析，[数据类型](https://github.com/wwfra/scrapy_github/edit/main/README.md#%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)包括用户、组织和仓库三大类，运行前请参考[注意事项](https://github.com/wwfra/scrapy_github/edit/main/README.md#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+本程序可以针对GitHub上最热门的用户与仓库进行爬取和解析，[数据类型](https://github.com/wwfra/scrapy_github#%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)包括用户、组织和仓库三大类，运行前请参考[注意事项](https://github.com/wwfra/scrapy_github#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 ## 程序整体框架图
 
 ## 数据类型
